@@ -1,2 +1,1 @@
-# SchoolProjects
--To check out my school projects click on the main pulldown and you'll see my projects from each class
+These files are projects from my CSC205AB (OOP & Data structures(java)) class
